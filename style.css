@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+    font-size: 0.5cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    margin: 5% 30% 0% 45%;
+    color: aliceblue;
+    display: inline-block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(49, 161, 64);;
+    padding: 10px 18px 18px 20px;
+}
+
+input{
+    display: flex;
+    color:rgb(49, 161, 64);
+}
+#btn{
+    margin: 15% 10% 0% 35%;
+    color: rgb(49, 161, 64);
+    background-color: transparent;
+    border-color: rgb(49, 161, 64);
+    border-radius: 10%;
+    padding: 5px;
+}
+#btn:hover{
+    background-color: rgb(49, 161, 64);
+    color: aliceblue;
+    box-shadow: 0 0 5px;
+    
+}
